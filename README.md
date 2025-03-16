@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Aquí encontrarás mis proyectos y contribuciones.
 
-## Herramientas que Uso
+## My Favorite Tools
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -17,14 +17,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Lenguajes de Programación que Manejo
+## Languages I Manage
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Tecnologías que Uso
+## Technologies I Use
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -38,12 +38,19 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-## Estadísticas de GitHub
-<div style="display: flex; max-width: 100%;">
-  <a href="https://github.com/rojdev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rojdev&show_icons=true&theme=dracula" alt="Estadísticas de GitHub" />
-  </a>
-  <a href="https://github.com/rojdev">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rojdev&theme=dracula" alt="Días de contribución" />
-  </a>
-</div>
+## GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/rojdev">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rojdev&show_icons=true&theme=dracula" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/rojdev">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rojdev&theme=dracula" alt="Contribution Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
