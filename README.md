@@ -2,13 +2,19 @@
 
 ¡Bienvenido a mi perfil de GitHub! Aquí encontrarás mis proyectos y contribuciones.
 
+## Estadísticas de GitHub
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rojdev&show_icons=true&theme=dracula)](https://github.com/rojdev)
+
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rojdev&layout=compact&theme=dracula)](https://github.com/rojdev)
+
+[![Días de contribución](https://github-readme-streak-stats.herokuapp.com/?user=rojdev&theme=dracula)](https://github.com/rojdev)
+
 ## Contáctame
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-Puedes encontrarme en [tus redes sociales/enlaces aquí].
 
 ## Herramientas que Uso
 
