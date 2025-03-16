@@ -39,18 +39,11 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ## Estadísticas de GitHub
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/rojdev">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rojdev&show_icons=true&theme=dracula" alt="Estadísticas de GitHub" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/rojdev">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rojdev&theme=dracula" alt="Días de contribución" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; max-width: 100%;">
+  <a href="https://github.com/rojdev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rojdev&show_icons=true&theme=dracula" alt="Estadísticas de GitHub" />
+  </a>
+  <a href="https://github.com/rojdev">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rojdev&theme=dracula" alt="Días de contribución" />
+  </a>
+</div>
