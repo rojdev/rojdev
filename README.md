@@ -2,14 +2,6 @@
 
 ¡Bienvenido a mi perfil de GitHub! Aquí encontrarás mis proyectos y contribuciones.
 
-## Estadísticas de GitHub
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rojdev&show_icons=true&theme=dracula)](https://github.com/rojdev)
-
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rojdev&layout=compact&theme=dracula)](https://github.com/rojdev)
-
-[![Días de contribución](https://github-readme-streak-stats.herokuapp.com/?user=rojdev&theme=dracula)](https://github.com/rojdev)
-
 ## Contáctame
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -51,3 +43,11 @@
 ![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+## Estadísticas de GitHub
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rojdev&show_icons=true&theme=dracula)](https://github.com/rojdev)
+
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rojdev&layout=compact&theme=dracula)](https://github.com/rojdev)
+
+[![Días de contribución](https://github-readme-streak-stats.herokuapp.com/?user=rojdev&theme=dracula)](https://github.com/rojdev)
