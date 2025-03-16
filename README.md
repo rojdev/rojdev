@@ -54,11 +54,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/rojdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=rojdev&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/rojdev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rojdev&theme=dracula" alt="Contribution Streak" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/rojdev">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rojdev&show_icons=true&theme=dracula" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/rojdev">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rojdev&theme=dracula" alt="Contribution Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
