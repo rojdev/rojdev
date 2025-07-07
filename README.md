@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojdev&layout=donut-vertical&theme=dracula" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojdev&layout=compact&theme=dracula" />
     </td>
   </tr>
 </table>
