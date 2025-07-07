@@ -73,4 +73,9 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojdev&layout=donut-vertical&theme=dracula)](https://github.com/rojdev)
+    </td>
+  </tr>
 </table>
