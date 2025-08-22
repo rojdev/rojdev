@@ -1,6 +1,6 @@
 # 🚀 Welcome! I'm Marcos Martinez (rojdev) 👨‍💻
 
-👋 Hello there! I'm an aspiring engineer specializing in computer science, passionate about web development and currently working on a variety of areas including SCADA systems, MikroTik management, DevOps, and system administration.
+👋 Hello there! I'm an aspiring engineer specializing in computer science, passionate about web development and currently working as SysAdmin, DevOps and Backend Developer.
 
 ---
 
