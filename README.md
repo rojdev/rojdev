@@ -1,6 +1,6 @@
 # 🚀 Welcome! I'm Marcos Martinez (rojdev) 👨‍💻
 
-👋 Hello there! I'm an aspiring engineer specializing in computer science, passionate about web development and currently working as Odoo Developer.
+👋 Hello there! I am a Software Engineering student currently working as an Odoo Developer.
 
 ---
 
